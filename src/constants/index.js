@@ -21,12 +21,12 @@ export const LINKS = [
     link: "#services",
   },
   {
-    name: "Nosotros",
-    link: "#about",
-  },
-  {
     name: "Paquetes",
     link: "#portfolio",
+  },
+  {
+    name: "Nosotros",
+    link: "#about",
   },
   {
     name: "Contacto",
@@ -96,7 +96,7 @@ export const SERVICES_CONTENT = [
     description: "",
     image: plataforma5,
     alt: "plataforma 5",
-    link: "https://example.com",
+    link: "https://wa.me/523330160290?text=Quiero%20probar%20trooxer%20gratis",
     list: [
       "Reducción de costos operativos",
       "Mayor control y visibilidad de las rutas",
